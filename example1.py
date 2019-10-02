@@ -1,7 +1,6 @@
 # import openpyxl and tkinter modules
 from openpyxl import *
 from tkinter import *
-
 # globally declare wb and sheet variable
 
 # opening the existing excel file
